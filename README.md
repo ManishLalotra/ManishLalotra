@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://flaskmedia.s3.amazonaws.com/giphy.gif"> 
 
-<p align="left"> <img src="" alt="Manish lalotra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishLalotra&label=Profile%20views&color=0e75b6&style=flat" alt="Manish lalotra" /> </p>
 
 
 
